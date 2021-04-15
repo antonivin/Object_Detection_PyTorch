@@ -1,4 +1,4 @@
-# object-detection-pytorch *** Under Development ***
+# object-detection-pytorch
 Deep learning project for object detection in custom dataset using pytorch
 
 The deep learning project uses the kangaroo dataset but the project could also be used for other datasets.
